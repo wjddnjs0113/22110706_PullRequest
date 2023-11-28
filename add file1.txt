@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main(void)
+{
+  printf("hello world");
+}
+// 추가된 파일
